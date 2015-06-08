@@ -1,0 +1,14 @@
+{
+  "name": "zynga-scroller",
+  "version": "1.2.2",
+  "description": "Accelerated panning and zooming for HTML and Canvas",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raejin/scroller.git"
+  },
+  "keywords": [
+  ],
+  "license": "LicenseRef-LICENSE",
+  "homepage": "https://github.com/zynga/scroller#readme"
+}
